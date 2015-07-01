@@ -7,7 +7,7 @@
 -- tables
 -- Table: TNhanVien
 CREATE TABLE TNhanVien (
-    MaNV int  NOT NULL,
+    MaNV01 int  NOT NULL,
     Ma_Phong int  NOT NULL,
     Ten_NV varchar(255)  NOT NULL,
     Ngay_Sinh varchar(255)  NOT NULL,
